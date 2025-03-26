@@ -316,3 +316,12 @@ header.sticky {
   color: var(--white);
   transition: 0.5s ease-in;
 }
+
+/* ############## */
+/* Blog */
+/* ############## */
+#blog .container .row .col-md-4 .card:hover {
+  background-color: var(--red);
+  color: var(--white);
+  transition: 0.5s ease-in;
+}
