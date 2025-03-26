@@ -12,6 +12,10 @@
 </head>
 
 <body>
+  <!-- Bouton de redirection -->
+  <div class="arrow">
+    <i class="fas fa-arrow-up icone"></i>
+  </div>
 
 
   <script src="/assets/Js/app.js"></script>
