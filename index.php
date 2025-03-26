@@ -31,6 +31,7 @@
     <ul class="nav-list" id="nav-list">
       <li><a href="/index.php#home" class="text-capitalize">home</a></li>
       <li><a href="/index.php#about" class="text-capitalize">about</a></li>
+      <li><a href="/index.php#about" class="text-capitalize">pages</a></li>
       <li><a href="/index.php#services" class="text-capitalize">services</a></li>
       <li><a href="/index.php#section" class="text-capitalize">blog</a></li>
       <li><a href="/index.php#contact" class="text-capitalize">contact</a></li>
@@ -54,6 +55,35 @@
         </div>
       </div>
     </div>
+  </section>
+
+  <!-- ##############  -->
+  <!-- About  -->
+  <!-- ##############  -->
+  <section class="about" id="about">
+    <div class="section-heading">
+      <h2>about</h2>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <strong class="text-capitalize fs-2">best It solution services from experienced engineer</strong>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit neque molestiae molestias ad suscipit. Laudantium quae, quasi explicabo odit quibusdam necessitatibus numquam voluptate sed! Ratione quos nobis voluptatibus quam doloremque.
+            Pariatur, architecto animi accusantium officiis cumque nostrum non odit enim suscipit cupiditate. Aperiam, eos porro. Libero delectus aspernatur nemo voluptas illo! Non ut ab eligendi commodi repudiandae nesciunt sed consequatur?
+            Atque ut architecto consequuntur ad itaque eaque iste, minima nesciunt eos dolorum eius id sunt quas iure ipsa. Commodi eum eos dolore ea nulla nihil placeat obcaecati facilis modi voluptatem.Possimus cum accusantium amet dignissimos laudantium error, suscipit, quis molestias iusto eius harum, temporibus porro? Molestiae, modi voluptate. Optio alias assumenda atque quasi eligendi at id amet corporis vel corrupti. </p>
+          <div class="row">
+            <div class="col-md-6">
+              <a href="#" class="btn">explore features</a>
+            </div>
+            <div class="col-md-6">
+              <a href="#" class="btn_2">explore features</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <img src="/assets/images/about.jpg" alt="image about" class="img-fluid rounded">
+        </div>
+      </div>
   </section>
 
 
