@@ -154,6 +154,61 @@
     </div>
   </section>
 
+  <!-- ##############  -->
+  <!-- Blog  -->
+  <!-- ##############  -->
+  <section class="blog" id="blog">
+    <div class="section-heading">
+      <h2>blog</h2>
+    </div>
+    <div class="container">
+      <div class="row">
+        <strong class="text-capitalize fs-2 text-center my-5">
+          our great idea for it news
+        </strong>
+        <div class="col-md-4">
+          <div class="card">
+            <img src="/assets/images/blog-01.jpg" alt="">
+            <h6 class="px-4 py-4">
+              Mars 26, 2025
+              <span class="px-5 text-capitalize text-dark">business, case study</span>
+            </h6>
+            <p class="px-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti deleniti dolorum assumenda rem asperiores animi accusamus maxime ratione deserunt harum ipsum reprehenderit, quibusdam iusto fuga eos suscipit saepe. Eos, qui.</p>
+            <a href="#" class="text-decoration-none text-capitalize px-4 fw-semibold text-dark">
+              read more <i class="fab fa-facebook"></i>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card">
+            <img src="/assets/images/blog-02.jpg" alt="">
+            <h6 class="px-4 py-4">
+              Mars 26, 2025
+              <span class="px-5 text-capitalize text-dark">business, case study</span>
+            </h6>
+            <p class="px-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti deleniti dolorum assumenda rem asperiores animi accusamus maxime ratione deserunt harum ipsum reprehenderit, quibusdam iusto fuga eos suscipit saepe. Eos, qui.</p>
+            <a href="#" class="text-decoration-none text-capitalize px-4 fw-semibold text-dark">
+              read more <i class="fab fa-facebook"></i>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card">
+            <img src="/assets/images/blog-03.jpg" alt="">
+            <h6 class="px-4 py-4">
+              Mars 26, 2025
+              <span class="px-5 text-capitalize text-dark">business, case study</span>
+            </h6>
+            <p class="px-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti deleniti dolorum assumenda rem asperiores animi accusamus maxime ratione deserunt harum ipsum reprehenderit, quibusdam iusto fuga eos suscipit saepe. Eos, qui.</p>
+            <a href="#" class="text-decoration-none text-capitalize px-4 fw-semibold text-dark">
+              read more <i class="fab fa-facebook"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
 
 
 
