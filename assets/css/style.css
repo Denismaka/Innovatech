@@ -292,3 +292,18 @@ header.sticky {
   color: var(--white);
   transition: 0.5s ease-in;
 }
+
+/* ############## */
+/* Pages */
+/* ############## */
+#pages {
+  background-color: var(--black);
+  color: var(--white);
+}
+#pages .container .row {
+  margin-top: 175px;
+  padding: 175px 75px 75px 75px;
+}
+#pages .container .row .col-md-6:last-child {
+  margin-top: 12px;
+}
