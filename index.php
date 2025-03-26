@@ -31,7 +31,7 @@
     <ul class="nav-list" id="nav-list">
       <li><a href="/index.php#home" class="text-capitalize">home</a></li>
       <li><a href="/index.php#about" class="text-capitalize">about</a></li>
-      <li><a href="/index.php#about" class="text-capitalize">pages</a></li>
+      <li><a href="/index.php#pages" class="text-capitalize">pages</a></li>
       <li><a href="/index.php#services" class="text-capitalize">services</a></li>
       <li><a href="/index.php#section" class="text-capitalize">blog</a></li>
       <li><a href="/index.php#contact" class="text-capitalize">contact</a></li>
@@ -84,6 +84,30 @@
           <img src="/assets/images/about.jpg" alt="image about" class="img-fluid rounded">
         </div>
       </div>
+  </section>
+
+  <!-- ##############  -->
+  <!-- Pages  -->
+  <!-- ##############  -->
+  <section id="pages" class="pages">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <strong class="text-capitalize fs-2">start improving your business today! joinn us</strong>
+          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam omnis odit repellat officiis sunt incidunt repellendus facere consequatur voluptatum rerum, sit, nostrum odio dignissimos asperiores voluptatem nobis. Accusantium, similique expedita!
+            Distinctio voluptates, ipsum dicta, adipisci consectetur rem quasi consequatur, cupiditate mollitia officia commodi. Dignissimos ipsam esse et, libero inventore omnis, tempora eius labore, asperiores totam sit repellendus voluptatum ad maxime.
+            Vel natus provident eius numquam voluptatum nesciunt dolorum reiciendis ipsam optio! Dicta repellendus maxime accusamus odit quidem velit magnam repudiandae. Veniam sed dolore incidunt ab laboriosam fugiat culpa sint numquam.</p>
+        </div>
+        <div class="col-md-6">
+          <h4>Abonner vous à la newsletter</h4>
+          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum explicabo doloremque quia neque facilis tenetur, voluptas quisquam, pariatur repudiandae aspernatur debitis recusandae facere suscipit, ab accusantium veritatis quae adipisci sapiente?</p>
+          <div class="input-group has-validation">
+            <input type="email" placeholder="Adresse mail" name="email" class="form-control" id="MotpassResp">
+            <a href="#" class="btn">Envoyer</a>
+          </div>
+        </div>
+      </div>
+    </div>
   </section>
 
 
