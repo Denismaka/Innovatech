@@ -1,2 +1,92 @@
+/* ################ */
+/* General */
+/* ################ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
 
+:root {
+  --red: #af005d;
+  --white: #fefefefe;
+  --black: #000000;
+}
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--red);
+}
 
+/*section-title */
+.section-heading {
+  position: relative;
+  margin-top: 60px;
+  text-align: center;
+}
+.section-heading h2 {
+  color: var(--red);
+  font-size: 2.2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.section-heading::before {
+  content: '';
+  position: absolute;
+  top: 50px;
+  left: 47.5rem;
+  width: 220px;
+  height: 5px;
+  background-color: var(--red);
+  transform: translateX(-50%);
+}
+.section-heading::after {
+  content: '';
+  position: absolute;
+  top: 45px;
+  left: 50%;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: var(--red);
+  transform: translateX(-50%);
+}
+.btn {
+  color: #fff;
+  background-color: var(--red);
+  font-size: 1em;
+  font-weight: 600;
+  display: inline-block;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 1px;
+  border-radius: 2px;
+  transition: 0.5s ease-in;
+}
+.btn:hover {
+  background-color: var(--red);
+}
+/* Bouton de redirection  */
+.arrow {
+  height: 50px;
+  width: 50px;
+  background-color: var(--red);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  cursor: pointer;
+}
+
+.icone {
+  font-size: 24px;
+  color: var(--white);
+}
