@@ -67,7 +67,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <strong class="text-capitalize fs-2">best It solution services from experienced engineer</strong>
+          <strong class="text-capitalize fs-2">La meilleure solution informatique proposée par des ingénieurs expérimentés.</strong>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit neque molestiae molestias ad suscipit. Laudantium quae, quasi explicabo odit quibusdam necessitatibus numquam voluptate sed! Ratione quos nobis voluptatibus quam doloremque.
             Pariatur, architecto animi accusantium officiis cumque nostrum non odit enim suscipit cupiditate. Aperiam, eos porro. Libero delectus aspernatur nemo voluptas illo! Non ut ab eligendi commodi repudiandae nesciunt sed consequatur?
             Atque ut architecto consequuntur ad itaque eaque iste, minima nesciunt eos dolorum eius id sunt quas iure ipsa. Commodi eum eos dolore ea nulla nihil placeat obcaecati facilis modi voluptatem.Possimus cum accusantium amet dignissimos laudantium error, suscipit, quis molestias iusto eius harum, temporibus porro? Molestiae, modi voluptate. Optio alias assumenda atque quasi eligendi at id amet corporis vel corrupti. </p>
@@ -93,7 +93,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <strong class="text-capitalize fs-2">start improving your business today! joinn us</strong>
+          <strong class="text-capitalize fs-2">Commencez à améliorer votre entreprise dès aujourd'hui ! Rejoignez-nous.</strong>
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam omnis odit repellat officiis sunt incidunt repellendus facere consequatur voluptatum rerum, sit, nostrum odio dignissimos asperiores voluptatem nobis. Accusantium, similique expedita!
             Distinctio voluptates, ipsum dicta, adipisci consectetur rem quasi consequatur, cupiditate mollitia officia commodi. Dignissimos ipsam esse et, libero inventore omnis, tempora eius labore, asperiores totam sit repellendus voluptatum ad maxime.
             Vel natus provident eius numquam voluptatum nesciunt dolorum reiciendis ipsam optio! Dicta repellendus maxime accusamus odit quidem velit magnam repudiandae. Veniam sed dolore incidunt ab laboriosam fugiat culpa sint numquam.</p>
@@ -119,34 +119,45 @@
     </div>
     <div class="container">
       <div class="row">
-        <strong class="text-capitalize fs-2 text-center my-5">to design and deliver the innovative products.</strong>
-        <div class="col-md-4">
+        <strong class="text-capitalize fs-2 text-center my-5">Pour concevoir et livrer des produits innovants.</strong>
+        <div class="col-md-3">
           <div class="card p-5">
             <div class="icon fs-1">
-              <i class="fab fa-facebook"></i>
+              <i class="fas fa-tools"></i>
             </div>
-            <h3 class="text-capitalize fw-bold pt-3">reated reality</h3>
+            <h3 class="text-capitalize fw-bold pt-3">Support Technique et Maintenance</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim, quas ea. Maxime deserunt iure ducimus labore.</p>
             <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">read more</a>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
           <div class="card p-5">
             <div class="icon fs-1">
-              <i class="fab fa-facebook"></i>
+              <i class="fas fa-wrench"></i>
+
             </div>
-            <h3 class="text-capitalize fw-bold pt-3">deep expertise</h3>
+            <h3 class="text-capitalize fw-bold pt-3">Expertise approfondie</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim, quas ea. Maxime deserunt iure ducimus labore.</p>
             <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">read more</a>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-3">
           <div class="card p-5">
             <div class="icon fs-1">
-              <i class="fab fa-facebook"></i>
+              <i class="fas fa-chart-bar"></i>
             </div>
-            <h3 class="text-capitalize fw-bold pt-3">software development</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim, quas ea. Maxime deserunt iure ducimus labore.</p>
+            <h3 class="text-capitalize fw-bold pt-3">Solutions de Big Data et Analyse de Données</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim</p>
+            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">read more</a>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="card p-5">
+            <div class="icon fs-1">
+              <i class="fa-solid fa-flask"></i>
+            </div>
+            <h3 class="text-capitalize fw-bold pt-3">Développement de logiciels.</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim</p>
             <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">read more</a>
           </div>
         </div>
@@ -164,14 +175,14 @@
     <div class="container">
       <div class="row">
         <strong class="text-capitalize fs-2 text-center my-5">
-          our great idea for it news
+          Notre excellente idée pour les actualités informatiques.
         </strong>
         <div class="col-md-4">
           <div class="card">
             <img src="/assets/images/blog-01.jpg" alt="">
             <h6 class="px-4 py-4">
               Mars 26, 2025
-              <span class="px-5 text-capitalize text-dark">business, case study</span>
+              <span class="px-5 text-capitalize text-dark">Entreprise, étude de cas.</span>
             </h6>
             <p class="px-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti deleniti dolorum assumenda rem asperiores animi accusamus maxime ratione deserunt harum ipsum reprehenderit, quibusdam iusto fuga eos suscipit saepe. Eos, qui.</p>
             <a href="#" class="text-decoration-none text-capitalize px-4 fw-semibold text-dark">
@@ -184,7 +195,7 @@
             <img src="/assets/images/blog-02.jpg" alt="">
             <h6 class="px-4 py-4">
               Mars 26, 2025
-              <span class="px-5 text-capitalize text-dark">business, case study</span>
+              <span class="px-5 text-capitalize text-dark">Entreprise, étude de cas.</span>
             </h6>
             <p class="px-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti deleniti dolorum assumenda rem asperiores animi accusamus maxime ratione deserunt harum ipsum reprehenderit, quibusdam iusto fuga eos suscipit saepe. Eos, qui.</p>
             <a href="#" class="text-decoration-none text-capitalize px-4 fw-semibold text-dark">
@@ -197,7 +208,7 @@
             <img src="/assets/images/blog-03.jpg" alt="">
             <h6 class="px-4 py-4">
               Mars 26, 2025
-              <span class="px-5 text-capitalize text-dark">business, case study</span>
+              <span class="px-5 text-capitalize text-dark">Entreprise, étude de cas.</span>
             </h6>
             <p class="px-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti deleniti dolorum assumenda rem asperiores animi accusamus maxime ratione deserunt harum ipsum reprehenderit, quibusdam iusto fuga eos suscipit saepe. Eos, qui.</p>
             <a href="#" class="text-decoration-none text-capitalize px-4 fw-semibold text-dark">
