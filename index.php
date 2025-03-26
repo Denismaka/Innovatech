@@ -37,6 +37,24 @@
     </ul>
   </header>
 
+  <!-- ##############  -->
+  <!-- Home  -->
+  <!-- ##############  -->
+  <section class="home" id="home">
+    <div class="container">
+      <div class="row">
+        <h2>Nous sommes créatifs</h2>
+        <div class="animated-text">
+          <h3>Entreprise de services informatiques.</h3>
+          <h3>Spécialiste en solutions technologiques innovantes.</h3>
+          <h3>Expert en services numériques pour les entreprises.</h3>
+        </div>
+        <div class="button">
+          <a href="#">notre travail.</a>
+        </div>
+      </div>
+    </div>
+  </section>
 
 
   <script src="/assets/Js/app.js"></script>
