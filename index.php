@@ -110,6 +110,50 @@
     </div>
   </section>
 
+  <!-- ##############  -->
+  <!-- Services  -->
+  <!-- ##############  -->
+  <section class="services" id="services">
+    <div class="section-heading">
+      <h2>services</h2>
+    </div>
+    <div class="container">
+      <div class="row">
+        <strong class="text-capitalize fs-2 text-center my-5">to design and deliver the innovative products.</strong>
+        <div class="col-md-4">
+          <div class="card p-5">
+            <div class="icon fs-1">
+              <i class="fab fa-facebook"></i>
+            </div>
+            <h3 class="text-capitalize fw-bold pt-3">reated reality</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim, quas ea. Maxime deserunt iure ducimus labore.</p>
+            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">read more</a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card p-5">
+            <div class="icon fs-1">
+              <i class="fab fa-facebook"></i>
+            </div>
+            <h3 class="text-capitalize fw-bold pt-3">deep expertise</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim, quas ea. Maxime deserunt iure ducimus labore.</p>
+            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">read more</a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card p-5">
+            <div class="icon fs-1">
+              <i class="fab fa-facebook"></i>
+            </div>
+            <h3 class="text-capitalize fw-bold pt-3">software development</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim, quas ea. Maxime deserunt iure ducimus labore.</p>
+            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">read more</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
 
 
 
