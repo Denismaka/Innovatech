@@ -11,3 +11,14 @@ window.addEventListener('scroll', function () {
   const header = document.querySelector('header');
   header.classList.toggle('sticky', window.scrollY > 0);
 });
+
+// Bouton de redirection
+const btn = document.querySelector('.arrow');
+
+btn.addEventListener('click', () => {
+  window.scrollTo({
+    top: 0,
+    left: 0,
+    behavior: 'smooth',
+  });
+});
