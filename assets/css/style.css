@@ -311,7 +311,7 @@ header.sticky {
 /* ############## */
 /* Services */
 /* ############## */
-#services .container .row .col-md-4 .card:hover {
+#services .container .row .col-md-3 .card:hover {
   background-color: var(--red);
   color: var(--white);
   transition: 0.5s ease-in;
