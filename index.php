@@ -73,10 +73,10 @@
             Atque ut architecto consequuntur ad itaque eaque iste, minima nesciunt eos dolorum eius id sunt quas iure ipsa. Commodi eum eos dolore ea nulla nihil placeat obcaecati facilis modi voluptatem.Possimus cum accusantium amet dignissimos laudantium error, suscipit, quis molestias iusto eius harum, temporibus porro? Molestiae, modi voluptate. Optio alias assumenda atque quasi eligendi at id amet corporis vel corrupti. </p>
           <div class="row">
             <div class="col-md-6">
-              <a href="#" class="btn">explore features</a>
+              <a href="#" class="btn">savoir plus</a>
             </div>
             <div class="col-md-6">
-              <a href="#" class="btn_2">explore features</a>
+              <a href="#" class="btn_2">savoir plus</a>
             </div>
           </div>
         </div>
