@@ -33,7 +33,7 @@
       <li><a href="/index.php#about" class="text-capitalize">about</a></li>
       <li><a href="/index.php#pages" class="text-capitalize">pages</a></li>
       <li><a href="/index.php#services" class="text-capitalize">services</a></li>
-      <li><a href="/index.php#section" class="text-capitalize">blog</a></li>
+      <li><a href="/index.php#blog" class="text-capitalize">blog</a></li>
       <li><a href="/index.php#contact" class="text-capitalize">contact</a></li>
     </ul>
   </header>
