@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/style.css" />
   <link rel="stylesheet" href="/assets/font/fontawesome/css/all.min.css">
+  <link rel="website icon" href="/assets/images/logo_website.png" />
 </head>
 
 <body>
@@ -22,7 +23,7 @@
   <!-- ############## -->
   <header>
     <a href="index.php" class="logo">
-      <img src="/assets/images/website_logo.png" class="img-fluid rounded">
+      <img src="/assets/images/logo_website.png" class="img-fluid rounded">
       Innovatech
     </a>
     <div class="menu-toggle" id="mobile-menu">
