@@ -115,14 +115,14 @@
   <!-- Services  -->
   <!-- ##############  -->
   <section class="services" id="services">
-    <div class="section-heading">
-      <h2>services</h2>
+    <div class="section-heading text-center">
+      <h2>Services</h2>
     </div>
     <div class="container">
+      <strong class="text-capitalize fs-2 text-center my-5 d-block">Pour concevoir et livrer des produits innovants.</strong>
       <div class="row">
-        <strong class="text-capitalize fs-2 text-center my-5">Pour concevoir et livrer des produits innovants.</strong>
-        <div class="col-md-3">
-          <div class="card p-5">
+        <div class="col-lg-3 col-md-6 mb-4">
+          <div class="card p-5 h-100">
             <div class="icon fs-1">
               <i class="fas fa-tools"></i>
             </div>
@@ -134,11 +134,10 @@
             </a>
           </div>
         </div>
-        <div class="col-md-3">
-          <div class="card p-5">
+        <div class="col-lg-3 col-md-6 mb-4">
+          <div class="card p-5 h-100">
             <div class="icon fs-1">
               <i class="fas fa-wrench"></i>
-
             </div>
             <h3 class="text-capitalize fw-bold pt-3">Expertise approfondie</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim, quas ea. Maxime deserunt iure ducimus labore.</p>
@@ -148,8 +147,8 @@
             </a>
           </div>
         </div>
-        <div class="col-md-3">
-          <div class="card p-5">
+        <div class="col-lg-3 col-md-6 mb-4">
+          <div class="card p-5 h-100">
             <div class="icon fs-1">
               <i class="fas fa-chart-bar"></i>
             </div>
@@ -161,8 +160,8 @@
             </a>
           </div>
         </div>
-        <div class="col-md-3">
-          <div class="card p-5">
+        <div class="col-lg-3 col-md-6 mb-4">
+          <div class="card p-5 h-100">
             <div class="icon fs-1">
               <i class="fa-solid fa-flask"></i>
             </div>
@@ -178,21 +177,22 @@
     </div>
   </section>
 
+
   <!-- ##############  -->
   <!-- Blog  -->
   <!-- ##############  -->
   <section class="blog" id="blog">
-    <div class="section-heading">
-      <h2>blog</h2>
+    <div class="section-heading text-center">
+      <h2>Blog</h2>
     </div>
     <div class="container">
+      <strong class="text-capitalize fs-2 text-center my-5 d-block">
+        Notre excellente idée pour les actualités informatiques.
+      </strong>
       <div class="row">
-        <strong class="text-capitalize fs-2 text-center my-5">
-          Notre excellente idée pour les actualités informatiques.
-        </strong>
-        <div class="col-md-4">
-          <div class="card">
-            <img src="/assets/images/blog-01.jpg" alt="">
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100">
+            <img src="/assets/images/blog-01.jpg" alt="" class="card-img-top">
             <h6 class="px-4 py-4">
               Mars 26, 2025
               <span class="px-5 text-capitalize text-dark">Entreprise, étude de cas.</span>
@@ -203,9 +203,9 @@
             </a>
           </div>
         </div>
-        <div class="col-md-4">
-          <div class="card">
-            <img src="/assets/images/blog-02.jpg" alt="">
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100">
+            <img src="/assets/images/blog-02.jpg" alt="" class="card-img-top">
             <h6 class="px-4 py-4">
               Mars 26, 2025
               <span class="px-5 text-capitalize text-dark">Entreprise, étude de cas.</span>
@@ -216,9 +216,9 @@
             </a>
           </div>
         </div>
-        <div class="col-md-4">
-          <div class="card">
-            <img src="/assets/images/blog-03.jpg" alt="">
+        <div class="col-lg-4 col-md-6 mb-4">
+          <div class="card h-100">
+            <img src="/assets/images/blog-03.jpg" alt="" class="card-img-top">
             <h6 class="px-4 py-4">
               Mars 26, 2025
               <span class="px-5 text-capitalize text-dark">Entreprise, étude de cas.</span>
@@ -232,6 +232,7 @@
       </div>
     </div>
   </section>
+
 
 
   <!-- ##############  -->
@@ -281,44 +282,47 @@
   <footer class="text-white">
     <div class="container">
       <div class="row">
-        <div class="col-md-3 col-sm-6 mb-4">
-          <h3 class="text-uppercase fw-bold fs-2"><a href="#" class="text-decoration-none">Innovatech</a></h3>
+        <div class="col-lg-3 col-md-6 mb-4">
+          <h3 class="text-uppercase fw-bold fs-2">
+            <a href="#" class="text-decoration-none text-white">Innovatech</a>
+          </h3>
           <p>Votre partenaire technologique pour l'innovation et la créativité.</p>
         </div>
 
-        <div class="col-md-3 col-sm-6 mb-4">
+        <div class="col-lg-3 col-md-6 mb-4">
           <h3>Liens</h3>
           <ul class="list-unstyled">
-            <li><a href="#" class="text-decoration-none">Home</a></li>
-            <li><a href="#" class="text-decoration-none">About</a></li>
-            <li><a href="#" class="text-decoration-none">Pages</a></li>
-            <li><a href="#" class="text-decoration-none">Services</a></li>
-            <li><a href="#" class="text-decoration-none">Blog</a></li>
-            <li><a href="#" class="text-decoration-none">Contact</a></li>
+            <li><a href="#" class="text-decoration-none text-white">Home</a></li>
+            <li><a href="#" class="text-decoration-none text-white">About</a></li>
+            <li><a href="#" class="text-decoration-none text-white">Pages</a></li>
+            <li><a href="#" class="text-decoration-none text-white">Services</a></li>
+            <li><a href="#" class="text-decoration-none text-white">Blog</a></li>
+            <li><a href="#" class="text-decoration-none text-white">Contact</a></li>
           </ul>
         </div>
 
-        <div class="col-md-3 col-sm-6 mb-4">
+        <div class="col-lg-3 col-md-6 mb-4">
           <h3>Réseaux sociaux</h3>
           <div class="d-flex gap-3">
-            <a href="#" class="text-decoration-none"><i class="fab fa-facebook fa-lg"></i></a>
-            <a href="#" class="text-decoration-none"><i class="fab fa-linkedin fa-lg"></i></a>
-            <a href="#" class="text-decoration-none"><i class="fab fa-instagram fa-lg"></i></a>
-            <a href="#" class="text-decoration-none"><i class="fab fa-youtube fa-lg"></i></a>
+            <a href="#" class="text-decoration-none text-white"><i class="fab fa-facebook fa-lg"></i></a>
+            <a href="#" class="text-decoration-none text-white"><i class="fab fa-linkedin fa-lg"></i></a>
+            <a href="#" class="text-decoration-none text-white"><i class="fab fa-instagram fa-lg"></i></a>
+            <a href="#" class="text-decoration-none text-white"><i class="fab fa-youtube fa-lg"></i></a>
           </div>
         </div>
 
-        <div class="col-md-3 col-sm-6 mb-4">
+        <div class="col-lg-3 col-md-6 mb-4">
           <h3>Newsletter</h3>
           <form class="d-flex">
             <input type="email" class="form-control" placeholder="Votre email" required>
-            <a href="#" class="btn">Envoyer</a>
+            <button type="submit" class="btn">Envoyer</button>
           </form>
         </div>
-        <p>&copy; 2025 <a href="#" class="text-decoration-none" style="color: #af005d;">Denis maka</a>, Tous droits réservés.</p>
       </div>
+      <p class="text-center mt-4">&copy; 2025 <a href="#" class="text-decoration-none" style="color: #af005d;">Denis Maka</a>, Tous droits réservés.</p>
     </div>
   </footer>
+
 
 
 
