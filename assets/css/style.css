@@ -309,6 +309,13 @@ header.sticky {
 }
 
 /* ############## */
+/* Services */
+/* ############## */
+#services .container .row .col-md-3 .card:hover {
+  background-color: #e2e2e2;
+}
+
+/* ############## */
 /* Contact */
 /* ############## */
 #contact .contact-form {
