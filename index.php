@@ -128,7 +128,10 @@
             </div>
             <h3 class="text-capitalize fw-bold pt-3">Support Technique et Maintenance</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim, quas ea. Maxime deserunt iure ducimus labore.</p>
-            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">read more</a>
+            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">
+              read more
+              <i class="fa-solid fa-arrow-right"></i>
+            </a>
           </div>
         </div>
         <div class="col-md-3">
@@ -139,7 +142,10 @@
             </div>
             <h3 class="text-capitalize fw-bold pt-3">Expertise approfondie</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim, quas ea. Maxime deserunt iure ducimus labore.</p>
-            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">read more</a>
+            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">
+              read more
+              <i class="fa-solid fa-arrow-right"></i>
+            </a>
           </div>
         </div>
         <div class="col-md-3">
@@ -149,7 +155,10 @@
             </div>
             <h3 class="text-capitalize fw-bold pt-3">Solutions de Big Data et Analyse de Données</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim</p>
-            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">read more</a>
+            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">
+              read more
+              <i class="fa-solid fa-arrow-right"></i>
+            </a>
           </div>
         </div>
         <div class="col-md-3">
@@ -159,7 +168,10 @@
             </div>
             <h3 class="text-capitalize fw-bold pt-3">Développement de logiciels.</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim</p>
-            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">read more</a>
+            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">
+              read more
+              <i class="fa-solid fa-arrow-right"></i>
+            </a>
           </div>
         </div>
       </div>
@@ -186,8 +198,8 @@
               <span class="px-5 text-capitalize text-dark">Entreprise, étude de cas.</span>
             </h6>
             <p class="px-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti deleniti dolorum assumenda rem asperiores animi accusamus maxime ratione deserunt harum ipsum reprehenderit, quibusdam iusto fuga eos suscipit saepe. Eos, qui.</p>
-            <a href="#" class="text-decoration-none text-capitalize px-4 fw-semibold text-dark">
-              read more <i class="fab fa-facebook"></i>
+            <a href="#" class="text-decoration-none text-capitalize px-4 pb-4 fw-semibold text-dark">
+              read more <i class="fa-solid fa-arrow-right"></i>
             </a>
           </div>
         </div>
@@ -199,8 +211,8 @@
               <span class="px-5 text-capitalize text-dark">Entreprise, étude de cas.</span>
             </h6>
             <p class="px-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti deleniti dolorum assumenda rem asperiores animi accusamus maxime ratione deserunt harum ipsum reprehenderit, quibusdam iusto fuga eos suscipit saepe. Eos, qui.</p>
-            <a href="#" class="text-decoration-none text-capitalize px-4 fw-semibold text-dark">
-              read more <i class="fab fa-facebook"></i>
+            <a href="#" class="text-decoration-none text-capitalize px-4 pb-4 fw-semibold text-dark">
+              read more <i class="fa-solid fa-arrow-right"></i>
             </a>
           </div>
         </div>
@@ -212,8 +224,8 @@
               <span class="px-5 text-capitalize text-dark">Entreprise, étude de cas.</span>
             </h6>
             <p class="px-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti deleniti dolorum assumenda rem asperiores animi accusamus maxime ratione deserunt harum ipsum reprehenderit, quibusdam iusto fuga eos suscipit saepe. Eos, qui.</p>
-            <a href="#" class="text-decoration-none text-capitalize px-4 fw-semibold text-dark">
-              read more <i class="fab fa-facebook"></i>
+            <a href="#" class="text-decoration-none text-capitalize px-4 pb-4 fw-semibold text-dark">
+              read more <i class="fa-solid fa-arrow-right"></i>
             </a>
           </div>
         </div>
