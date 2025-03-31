@@ -263,6 +263,50 @@
     </div>
   </section>
 
+  <!-- ##############  -->
+  <!-- Footer  -->
+  <!-- ##############  -->
+  <footer class="text-white">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3 col-sm-6 mb-4">
+          <h3 class="text-uppercase fw-bold fs-2"><a href="#" class="text-decoration-none">Innovatech</a></h3>
+          <p>Votre partenaire technologique pour l'innovation et la créativité.</p>
+        </div>
+
+        <div class="col-md-3 col-sm-6 mb-4">
+          <h3>Liens</h3>
+          <ul class="list-unstyled">
+            <li><a href="#" class="text-decoration-none">Home</a></li>
+            <li><a href="#" class="text-decoration-none">About</a></li>
+            <li><a href="#" class="text-decoration-none">Pages</a></li>
+            <li><a href="#" class="text-decoration-none">Services</a></li>
+            <li><a href="#" class="text-decoration-none">Blog</a></li>
+            <li><a href="#" class="text-decoration-none">Contact</a></li>
+          </ul>
+        </div>
+
+        <div class="col-md-3 col-sm-6 mb-4">
+          <h3>Réseaux sociaux</h3>
+          <div class="d-flex gap-3">
+            <a href="#" class="text-decoration-none"><i class="fab fa-facebook fa-lg"></i></a>
+            <a href="#" class="text-decoration-none"><i class="fab fa-linkedin fa-lg"></i></a>
+            <a href="#" class="text-decoration-none"><i class="fab fa-instagram fa-lg"></i></a>
+            <a href="#" class="text-decoration-none"><i class="fab fa-youtube fa-lg"></i></a>
+          </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6 mb-4">
+          <h3>Newsletter</h3>
+          <form class="d-flex">
+            <input type="email" class="form-control" placeholder="Votre email" required>
+            <a href="#" class="btn">Envoyer</a>
+          </form>
+        </div>
+        <p>&copy; 2025 <a href="#" class="text-decoration-none" style="color: #af005d;">Denis maka</a>, Tous droits réservés.</p>
+      </div>
+    </div>
+  </footer>
 
 
 
