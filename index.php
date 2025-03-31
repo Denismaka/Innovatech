@@ -222,6 +222,49 @@
   </section>
 
 
+  <!-- ##############  -->
+  <!-- Contact  -->
+  <!-- ##############  -->
+  <section class="contact" id="contact">
+    <div class="section-heading">
+      <h2>Contact</h2>
+    </div>
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-6 col-md-8 col-sm-10 my-5">
+          <form class="contact-form" id="contactForm">
+            <h2 class="mb-4 text-uppercase">Contactez-nous</h2>
+
+            <div class="row">
+              <div class="col-md-4 mb-3">
+                <input type="text" class="form-control" placeholder="Nom" required>
+              </div>
+              <div class="col-md-4 mb-3">
+                <input type="text" class="form-control" placeholder="Postnom" required>
+              </div>
+              <div class="col-md-4 mb-3">
+                <input type="text" class="form-control" placeholder="Prénom" required>
+              </div>
+            </div>
+
+            <div class="mb-4">
+              <textarea class="form-control" placeholder="Votre message..." rows="5" required></textarea>
+            </div>
+
+            <div class="d-flex justify-content-center">
+              <a href="#" class="btn btn-primary btn-lg px-5">
+                Envoyer
+                <i class="bi bi-send ms-2"></i>
+              </a>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
 
 
   <script src="/assets/Js/app.js"></script>

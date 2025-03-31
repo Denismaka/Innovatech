@@ -311,12 +311,56 @@ header.sticky {
 /* ############## */
 /* Services */
 /* ############## */
-#services .container .row .col-md-3 .card:hover {
-  background-color: var(--red);
-  color: var(--white);
-  transition: 0.5s ease-in;
+/* Contact */
+#contact .contact-form {
+  background-color: var(--white);
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  width: 100%;
 }
 
-/* ############## */
-/* Blog */
-/* ############## */
+#contact .contact-form h2 {
+  color: var(--red);
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+#contact .form-control {
+  border: 2px solid var(--red);
+  border-radius: 4px;
+  font-size: 1rem;
+  resize: none;
+  transition: all 0.3s ease;
+}
+
+#contact .form-control:focus {
+  box-shadow: 0 0 5px rgba(175, 0, 93, 0.3);
+  border-color: var(--red);
+}
+
+#contact .btn-primary {
+  background-color: var(--red);
+  border: none;
+  padding: 0.75rem 2rem;
+}
+
+#contact .btn-primary:hover {
+  opacity: 0.9;
+  background-color: var(--black);
+}
+
+::placeholder {
+  color: var(--red);
+  opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+  #contact .contact-form {
+    padding: 1.5rem;
+  }
+
+  #contact .form-control {
+    font-size: 0.9rem;
+  }
+}
