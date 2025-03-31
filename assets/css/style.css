@@ -161,40 +161,6 @@ header.sticky {
   color: var(--white);
 }
 
-/* Styles pour les écrans mobiles */
-@media (max-width: 768px) {
-  header {
-    padding: 20px 30px;
-  }
-
-  .menu-toggle {
-    display: block;
-  }
-
-  .nav-list {
-    position: absolute;
-    top: 80px;
-    left: 0;
-    width: 100%;
-    background-color: var(--red);
-    flex-direction: column;
-    align-items: center;
-    display: none;
-  }
-
-  .nav-list.active {
-    display: flex;
-  }
-
-  .nav-list li {
-    margin: 15px 0;
-  }
-
-  header .logo img {
-    width: 15;
-  }
-}
-
 /* ############## */
 /* Home */
 /* ############## */
@@ -360,16 +326,6 @@ header.sticky {
   opacity: 0.7;
 }
 
-@media (max-width: 768px) {
-  #contact .contact-form {
-    padding: 1.5rem;
-  }
-
-  #contact .form-control {
-    font-size: 0.9rem;
-  }
-}
-
 /* ############## */
 /* Footer */
 /* ############## */
@@ -414,4 +370,47 @@ footer .btn:hover {
   background-color: var(--white);
   color: var(--red);
   transition: 0.5s ease-in-out;
+}
+
+/* ############## */
+/* Responsive */
+/* ############## */
+/* Styles pour les écrans mobiles */
+@media (max-width: 480px) {
+}
+@media (max-width: 600px) {
+}
+@media (max-width: 768px) {
+  header {
+    padding: 20px 30px;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+
+  .nav-list {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    width: 100%;
+    background-color: var(--red);
+    flex-direction: column;
+    align-items: center;
+    display: none;
+  }
+
+  .nav-list.active {
+    display: flex;
+  }
+
+  .nav-list li {
+    margin: 15px 0;
+  }
+
+  header .logo img {
+    width: 15;
+  }
+}
+@media (max-width: 992px) {
 }
