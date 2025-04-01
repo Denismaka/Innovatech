@@ -23,7 +23,7 @@
   <!-- ############## -->
   <header>
     <a href="index.php" class="logo">
-      <img src="/assets/images/logo_website.png" class="img-fluid rounded">
+      <img src="/assets/images/Innovatech_logo.png" class="img-fluid rounded">
       Innovatech
     </a>
     <div class="menu-toggle" id="mobile-menu">
@@ -68,7 +68,9 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <strong class="text-capitalize fs-2">La meilleure solution informatique proposée par des ingénieurs expérimentés.</strong>
+          <h2 class="fs-2">
+            La meilleure solution informatique proposée par des ingénieurs expérimentés.
+          </h2>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit neque molestiae molestias ad suscipit. Laudantium quae, quasi explicabo odit quibusdam necessitatibus numquam voluptate sed! Ratione quos nobis voluptatibus quam doloremque.
             Pariatur, architecto animi accusantium officiis cumque nostrum non odit enim suscipit cupiditate. Aperiam, eos porro. Libero delectus aspernatur nemo voluptas illo! Non ut ab eligendi commodi repudiandae nesciunt sed consequatur?
             Atque ut architecto consequuntur ad itaque eaque iste, minima nesciunt eos dolorum eius id sunt quas iure ipsa. Commodi eum eos dolore ea nulla nihil placeat obcaecati facilis modi voluptatem.Possimus cum accusantium amet dignissimos laudantium error, suscipit, quis molestias iusto eius harum, temporibus porro? Molestiae, modi voluptate. Optio alias assumenda atque quasi eligendi at id amet corporis vel corrupti. </p>
@@ -94,7 +96,9 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <strong class="text-capitalize fs-2">Commencez à améliorer votre entreprise dès aujourd'hui ! Rejoignez-nous.</strong>
+          <h2 class="fs-2">
+            Commencez à améliorer votre entreprise dès aujourd'hui ! Rejoignez-nous.
+          </h2>
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Totam omnis odit repellat officiis sunt incidunt repellendus facere consequatur voluptatum rerum, sit, nostrum odio dignissimos asperiores voluptatem nobis. Accusantium, similique expedita!
             Distinctio voluptates, ipsum dicta, adipisci consectetur rem quasi consequatur, cupiditate mollitia officia commodi. Dignissimos ipsam esse et, libero inventore omnis, tempora eius labore, asperiores totam sit repellendus voluptatum ad maxime.
             Vel natus provident eius numquam voluptatum nesciunt dolorum reiciendis ipsam optio! Dicta repellendus maxime accusamus odit quidem velit magnam repudiandae. Veniam sed dolore incidunt ab laboriosam fugiat culpa sint numquam.</p>
@@ -119,16 +123,18 @@
       <h2>Services</h2>
     </div>
     <div class="container">
-      <strong class="text-capitalize fs-2 text-center my-5 d-block">Pour concevoir et livrer des produits innovants.</strong>
+      <h2 class="fs-2 text-center my-5 d-block">
+        Pour concevoir et livrer des produits innovants.
+      </h2>
       <div class="row">
         <div class="col-lg-3 col-md-6 mb-4">
           <div class="card p-5 h-100">
             <div class="icon fs-1">
               <i class="fas fa-tools"></i>
             </div>
-            <h3 class="text-capitalize fw-bold pt-3">Support Technique et Maintenance</h3>
+            <h3 class="pt-3">Support Technique et Maintenance</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim, quas ea. Maxime deserunt iure ducimus labore.</p>
-            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">
+            <a href="#" class="text-decoration-none text-capitalize" style="color: #af005d;">
               read more
               <i class="fa-solid fa-arrow-right"></i>
             </a>
@@ -139,9 +145,9 @@
             <div class="icon fs-1">
               <i class="fas fa-wrench"></i>
             </div>
-            <h3 class="text-capitalize fw-bold pt-3">Expertise approfondie</h3>
+            <h3 class="pt-3">Expertise approfondie</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim, quas ea. Maxime deserunt iure ducimus labore.</p>
-            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">
+            <a href="#" class="text-decoration-none text-capitalize" style="color: #af005d;">
               read more
               <i class="fa-solid fa-arrow-right"></i>
             </a>
@@ -152,9 +158,9 @@
             <div class="icon fs-1">
               <i class="fas fa-chart-bar"></i>
             </div>
-            <h3 class="text-capitalize fw-bold pt-3">Solutions de Big Data et Analyse de Données</h3>
+            <h3 class="pt-3">Solutions de big data et analyse de données</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim</p>
-            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">
+            <a href="#" class="text-decoration-none text-capitalize" style="color: #af005d;">
               read more
               <i class="fa-solid fa-arrow-right"></i>
             </a>
@@ -165,9 +171,9 @@
             <div class="icon fs-1">
               <i class="fa-solid fa-flask"></i>
             </div>
-            <h3 class="text-capitalize fw-bold pt-3">Développement de logiciels.</h3>
+            <h3 class="pt-3">Développement de logiciels.</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem impedit deserunt provident tenetur in debitis sed eveniet nostrum dignissimos hic sunt eum enim</p>
-            <a href="#" class="text-decoration-none text-capitalize text-dark fw-semibold">
+            <a href="#" class="text-decoration-none text-capitalize" style="color: #af005d;">
               read more
               <i class="fa-solid fa-arrow-right"></i>
             </a>
@@ -186,19 +192,19 @@
       <h2>Blog</h2>
     </div>
     <div class="container">
-      <strong class="text-capitalize fs-2 text-center my-5 d-block">
+      <h2 class=" fs-2 text-center my-5 d-block">
         Notre excellente idée pour les actualités informatiques.
-      </strong>
+      </h2>
       <div class="row">
         <div class="col-lg-4 col-md-6 mb-4">
           <div class="card h-100">
             <img src="/assets/images/blog-01.jpg" alt="" class="card-img-top">
             <h6 class="px-4 py-4">
               Mars 26, 2025
-              <span class="px-5 text-capitalize text-dark">Entreprise, étude de cas.</span>
+              <span class="px-5">Entreprise, étude de cas.</span>
             </h6>
             <p class="px-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti deleniti dolorum assumenda rem asperiores animi accusamus maxime ratione deserunt harum ipsum reprehenderit, quibusdam iusto fuga eos suscipit saepe. Eos, qui.</p>
-            <a href="#" class="text-decoration-none text-capitalize px-4 pb-4 fw-semibold text-dark">
+            <a href="#" class="text-decoration-none text-capitalize px-4 pb-4 " style="color: #af005d;">
               read more <i class="fa-solid fa-arrow-right"></i>
             </a>
           </div>
@@ -208,10 +214,10 @@
             <img src="/assets/images/blog-02.jpg" alt="" class="card-img-top">
             <h6 class="px-4 py-4">
               Mars 26, 2025
-              <span class="px-5 text-capitalize text-dark">Entreprise, étude de cas.</span>
+              <span class="px-5">Entreprise, étude de cas.</span>
             </h6>
             <p class="px-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti deleniti dolorum assumenda rem asperiores animi accusamus maxime ratione deserunt harum ipsum reprehenderit, quibusdam iusto fuga eos suscipit saepe. Eos, qui.</p>
-            <a href="#" class="text-decoration-none text-capitalize px-4 pb-4 fw-semibold text-dark">
+            <a href="#" class="text-decoration-none text-capitalize px-4 pb-4 " style="color: #af005d;">
               read more <i class="fa-solid fa-arrow-right"></i>
             </a>
           </div>
@@ -221,10 +227,10 @@
             <img src="/assets/images/blog-03.jpg" alt="" class="card-img-top">
             <h6 class="px-4 py-4">
               Mars 26, 2025
-              <span class="px-5 text-capitalize text-dark">Entreprise, étude de cas.</span>
+              <span class="px-5">Entreprise, étude de cas.</span>
             </h6>
             <p class="px-4">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corrupti deleniti dolorum assumenda rem asperiores animi accusamus maxime ratione deserunt harum ipsum reprehenderit, quibusdam iusto fuga eos suscipit saepe. Eos, qui.</p>
-            <a href="#" class="text-decoration-none text-capitalize px-4 pb-4 fw-semibold text-dark">
+            <a href="#" class="text-decoration-none text-capitalize px-4 pb-4 " style="color: #af005d;">
               read more <i class="fa-solid fa-arrow-right"></i>
             </a>
           </div>
@@ -250,18 +256,18 @@
 
             <div class="row">
               <div class="col-md-4 mb-3">
-                <input type="text" class="form-control" placeholder="Nom" required>
+                <input type="text" id="nom" name="nom" class="form-control" placeholder="Nom" required>
               </div>
               <div class="col-md-4 mb-3">
-                <input type="text" class="form-control" placeholder="Postnom" required>
+                <input type="text" id="postnom" name="postnom" class="form-control" placeholder="Postnom" required>
               </div>
               <div class="col-md-4 mb-3">
-                <input type="text" class="form-control" placeholder="Prénom" required>
+                <input type="text" id="prenom" name="prenom" class="form-control" placeholder="Prénom" required>
               </div>
             </div>
 
             <div class="mb-4">
-              <textarea class="form-control" placeholder="Votre message..." rows="5" required></textarea>
+              <textarea class="form-control" id="commentaires" name="commentaires" placeholder="Votre message..." rows="5" required></textarea>
             </div>
 
             <div class="d-flex justify-content-center">
@@ -327,9 +333,9 @@
 
 
 
+  <script src="/assets/scrollreveal/dist/scrollreveal.min.js"></script>
   <script src="/assets/Js/app.js"></script>
   <script src="/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="/assets/scrollreveal/dist/scrollreveal.min.js"></script>
 </body>
 
 </html>
