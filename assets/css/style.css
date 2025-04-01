@@ -76,11 +76,12 @@
 .arrow {
   height: 50px;
   width: 50px;
-  background-color: var(--red);
+  background-color: rgba(175, 0, 93, 0.5);
   display: flex;
   justify-content: center;
   align-items: center;
   position: fixed;
+  z-index: 1000;
   right: 20px;
   bottom: 20px;
   cursor: pointer;
@@ -138,7 +139,6 @@ header ul li a {
   text-decoration: none;
   color: var(--white);
   letter-spacing: 2px;
-  font-weight: 700;
   transition: 0.6s;
 }
 header ul li a:hover {
@@ -146,10 +146,10 @@ header ul li a:hover {
   transition: 0.5s ease-in-out;
 }
 header.sticky {
-  padding: 15px 100px;
+  padding: 5px 100px;
 }
 header.sticky {
-  background-color: var(--red);
+  background-color: var(--black);
 }
 
 /* Styles pour le menu burger */
@@ -178,6 +178,7 @@ header.sticky {
 }
 #home .container .row h2 {
   color: var(--white);
+  font-size: 50px;
 }
 #home .container .row .animated-text {
   position: relative;
@@ -186,7 +187,7 @@ header.sticky {
 }
 #home .container .row .animated-text h3 {
   color: var(--red);
-  font-size: 3em;
+  font-size: 2em;
   font-weight: 700;
   line-height: 70px;
   letter-spacing: 1px;
@@ -275,8 +276,9 @@ header.sticky {
 /* ############## */
 /* Services */
 /* ############## */
-#services .container .row .col-md-3 .card:hover {
+#services .container .row .col-md-6 .card:hover {
   background-color: #e2e2e2;
+  transition: 0.5s ease-in-out;
 }
 
 /* ############## */
@@ -329,6 +331,7 @@ header.sticky {
 /* Footer */
 /* ############## */
 footer {
+  height: 50vh;
   padding-top: 55px;
   background-color: var(--black);
 }
@@ -374,10 +377,12 @@ footer .btn:hover {
 /* ############## */
 /* Responsive */
 /* ############## */
-/* Styles pour les écrans mobiles */
 @media (max-width: 480px) {
+  footer {
+    height: 105vh;
+  }
   .section-heading::before {
-    left: 5rem;
+    margin-left: -9rem;
   }
   #about .container .row .col-md-6 .row .col-md-6 .btn {
     margin-bottom: 25px;
@@ -397,7 +402,7 @@ footer .btn:hover {
 }
 @media (max-width: 600px) {
   .section-heading::before {
-    left: 18.5rem;
+    margin-left: -5rem;
   }
   #about .container .row .col-md-6 .row .col-md-6 .btn {
     margin-bottom: 25px;
@@ -414,10 +419,13 @@ footer .btn:hover {
   #blog .container .row .col-md-4 {
     margin-bottom: 25px;
   }
+  footer {
+    height: 102vh;
+  }
 }
 @media (max-width: 768px) {
   header {
-    padding: 20px 30px;
+    padding: 10px 30px;
   }
 
   .menu-toggle {
@@ -429,10 +437,11 @@ footer .btn:hover {
     top: 80px;
     left: 0;
     width: 100%;
-    background-color: var(--red);
+    background-color: var(--black);
     flex-direction: column;
     align-items: center;
     display: none;
+    margin-top: 125px;
   }
 
   .nav-list.active {
@@ -481,10 +490,47 @@ footer .btn:hover {
   }
 }
 @media (max-width: 992px) {
+  .section-heading::before {
+    margin-left: -16rem;
+  }
   header .logo {
     font-size: 1em;
   }
   header .logo img {
     width: 30%;
+  }
+  #about .container .row .col-md-6 p {
+    font-size: 9.5px;
+  }
+  #pages .container .row .col-md-6:first-child p {
+    font-size: 9.5px;
+  }
+  #services .container .row .col-md-6 .card .col-md-6 {
+    margin-bottom: 2rem;
+  }
+  #services .container .row .col-md-6 .card {
+    padding: 3rem;
+    font-size: 14px;
+  }
+  #services .container .row .col-md-6 .card .icon {
+    font-size: 2rem;
+  }
+
+  #services .container .row .col-md-6 .card h3 {
+    font-size: 1rem;
+  }
+
+  #services .container .row .col-md-6 .card p {
+    font-size: 10px;
+  }
+  #blog .container .row .col-md-6 .card h6 {
+    font-size: 15px;
+  }
+
+  #blog .container .row .col-md-6 .card p {
+    font-size: 12px;
+  }
+  footer {
+    height: 55vh;
   }
 }
