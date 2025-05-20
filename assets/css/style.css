@@ -170,7 +170,7 @@ header.sticky {
     display: flex;
     align-items: center;
     background-image: linear-gradient(rgba(49, 49, 49, 0.7), rgba(0, 0, 0, 0.7)),
-        url("../images/home.jpg");
+        url("/assets/images/home.jpg");
     background-size: cover;
 }
 #home .container .row {
