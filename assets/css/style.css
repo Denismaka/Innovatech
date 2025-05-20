@@ -149,8 +149,6 @@ header ul li a:hover {
 }
 header.sticky {
     padding: 5px 100px;
-}
-header.sticky {
     background-color: var(--black);
 }
 
@@ -385,7 +383,6 @@ footer .btn:hover {
     color: var(--red);
     transition: 0.5s ease-in-out;
 }
-
 /* ############## */
 /* Responsive */
 /* ############## */
